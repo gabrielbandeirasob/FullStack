@@ -18,7 +18,7 @@ export default function CTA() {
         </motion.h2>
 
         <motion.a
-          href="https://wa.me/5562982593121"
+          href="https://wa.me/5562982673717"
           target="_blank"
           rel="noopener noreferrer"
           initial={{ opacity: 0, scale: 0.9 }}
